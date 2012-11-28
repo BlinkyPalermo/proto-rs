@@ -1,0 +1,297 @@
+@font-face {
+font-family:'MuseoSlab300';
+src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont-c790ba490d29f766eb4c3d421fc12c5f.eot);
+src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont.eot?#iefix)
+format("embedded-opentype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont-ee7b8fa2adb8b6d8e46e46b3ed33fae4.woff)
+format("woff"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont-c29ed3a0f354222c7f689fbf667cecab.ttf)
+format("truetype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont.svg#museo_slab_300regular)
+format("svg");
+font-weight:normal;
+font-style:normal}
+
+@font-face {
+font-family:'MuseoSlab500';
+src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont-c3025c9e23e27010edf6c03d8946888c.eot);
+src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont.eot?#iefix)
+format("embedded-opentype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont-3af8efbc4d605e61746f1932792fd3e9.woff)
+format("woff"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont-1aa3f1a3fd9928123311506563dd09df.ttf)
+format("truetype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont.svg#museo_slab_500regular)
+format("svg");
+font-weight:normal;
+font-style:normal}
+
+@font-face {
+font-family:'MuseoSlab700';
+src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont-c3966a6712a86e546925cd89a9b42b95.eot);
+src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont.eot?#iefix)
+format("embedded-opentype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont-df3101fa0cbb3aaa8487af057f6e0e86.woff)
+format("woff"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont-f3dcd76775462f24713a972c0c4a3dfc.ttf)
+format("truetype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont.svg#museo_slab_700regular)
+format("svg");
+font-weight:normal;
+font-style:normal}
+
+html
+{font-size:100%;
+-webkit-text-size-adjust:100%;
+-ms-text-size-adjust:100%;
+font-family:'MuseoSlab300',sans-serif;
+color:#242729}
+
+body
+{margin:0;font-size:1em;
+line-height:1.4}
+
+footer,header
+{display:block}
+
+a
+{color:#242729;
+text-decoration:none}
+
+a:visited
+{color:#242729}
+
+a:hover
+{color:#666;
+text-decoration:underline}
+
+img
+{border:0;
+-ms-interpolation-mode:bicubic;
+vertical-align:middle}
+
+svg:not(:root)
+{overflow:hidden}
+
+h1,h2,h3,h4,h5,h6,p
+{margin:0;
+padding:0;
+font-weight:normal}
+
+*
+{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box}
+
+*
+{background-repeat:no-repeat}
+
+div[role="container"]
+{position:relative;
+width:100%;
+z-index:2}
+
+div[role="main"]
+{width:100%}
+
+h1 a
+{display:block;
+padding-top:191px;
+margin-bottom:12px}
+
+header p
+{margin-bottom:12px;
+padding:0 10px 0;}
+
+.appstore-main
+{height:0;
+margin:48px 0 48px;
+border-width:1px 0 0;
+border-style:solid}
+
+.appstore-main .holder
+{display:block;
+position:relative;
+top:-25px;
+width:144px;
+height:48px;
+margin:0 auto;}
+
+.appstore-main
+
+a
+{display:block;
+width:144px;
+height:48px;
+margin:0 auto;
+-webkit-background-clip:padding-box;-webkit-border-radius:9px;
+-moz-background-clip:padding-box;
+-moz-border-radius:9px;border-radius:9px;background-clip:padding-box}
+
+.social
+{position:relative;
+padding-bottom:48px}
+
+.social a.twitter,.social a.facebook
+{display:inline-block;
+width:136px;
+height:72px;
+padding-top:54px}
+
+.social a.twitter.facebook,.social
+
+a.facebook.facebook
+{margin-right:6px}.social
+a.twitter.twitter,.social a.facebook.twitter
+{margin-left:6px}
+.social a.appstore
+{display:none}.social 
+.like-share
+{margin-top:24px}
+.social .like-share .fb-like,.social .like-share .twitter-share-button
+{position:relative}
+.social .like-share .fb-like
+{top:-3px;margin-left:36px}
+.social .like-share .twitter-share-button
+{margin-left:24px}
+
+footer
+{position:relative;padding:24px 0 60px;z-index:0}
+
+footer a,footer span
+{margin:0 6px}
+
+body
+{font-size:12px;
+text-align:center}
+
+h1
+{font-size:2em;
+font-family:'MuseoSlab500';}.social
+
+a:hover
+{text-decoration:none}
+
+footer
+{font-family:sans-serif;
+line-height:2em}
+
+body
+{color:#242729;
+background-color:#faf9f7}
+
+div[role="container"]
+{background-color:#faf9f7}
+
+div[role="main"]
+{background-color:#faf9f7}
+
+h1 a
+{color:#9fa0a3}
+
+.appstore-main
+{border-color:#d5d5d5}
+
+.appstore-main a
+{color:#8f969a;
+background-color:#faf9f7}
+
+.social a
+{color:#9fa0a3}.social
+
+a:hover
+{color:#242729}
+
+footer
+{background-color:transparent}
+
+body
+{background-image:url(images/bg-pattern.png);
+background-size:513px 339px;
+background-position:bottom center;
+background-repeat:repeat-x}
+	
+h1 a
+{background-image:url(images/appicon@2x.png);
+background-size:144px 144px;
+background-position:center 36px}
+
+.appstore-main a
+{overflow:hidden;
+text-indent:-999em;
+background-image:url(images/appstore.png);
+background-size:135px 40px;
+background-position:center center;
+background-repeat:no-repeat}
+
+.social a.twitter,.social a.facebook
+{background-size:42px 42px;
+background-position:center top;
+background-repeat:no-repeat}
+
+.social a.twitter.facebook,.social a.facebook.facebook
+{background-image:url(images/facebook.png)}
+
+.social a.twitter.twitter,.social a.facebook.twitter
+{background-image:url(images/twitter.png)}
+
+h1
+{text-shadow:0 1px 0 #ffffff}
+
+h1 a:hover,h1 a:visited
+{color:#9fa0a3;text-decoration:none}
+
+/*
+
+@media only screen and (min-width: 768px)
+{h1 a{padding-top:9.375em}
+
+div[role="main"]
+{width:740px;margin:0 auto}
+
+header p br
+{display:none}
+.appstore-main
+{margin-bottom:96px}
+.social
+{height:180px;padding:24px 0 24px}
+.social a.facebook,.social a.twitter
+{width:156px;height:54px;padding-top:30px}
+.social a.facebook.facebook,.social a.twitter.facebook
+{margin-right:144px}
+.social a.facebook.twitter,.social a.twitter.twitter
+{margin-left:144px}
+.social a.appstore
+{display:block;position:absolute;top:0;left:50%;margin-left:-85px;width:170px;height:165px}
+.social .like-share
+{margin-top:60px}
+
+footer
+{padding:12px 0 360px}
+
+footer br
+{display:none}
+
+body
+{font-size:14px}
+
+h1
+{font-size:3.857em}
+
+header p
+{font-size:1.286em}
+
+footer
+{font-size:0.857em}
+
+h1 a
+{background-image:url(images/ipad_riversandseas.png);
+background-size:555px 482px;
+background-position:center 1em}
+.social a.twitter,.social a.facebook
+{background-size:24px 24px}
+.social a.twitter
+{background-image:url(images/twitter_small.png)}
+.social a.facebook
+{background-image:url(images/facebook_small.png)}}
+
+@media only screen and (min-width: 1024px)
+{
+	h1 a{padding-top:9.375em}
+	div[role="main"]{width:960px}
+	.social a.facebook{margin-right:160px}
+	.social a.twitter{margin-left:160px}
+	h1{font-size:5.143em}
+	header p{font-size:1.714em}
+	h1 a{background-image:url(images/ipad_riversandseas.png);background-size:740px 643px;background-position:center 1em}
+}
+/*
