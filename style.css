@@ -1,41 +1,21 @@
 @font-face {
-font-family:'MuseoSlab300';
-src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont-c790ba490d29f766eb4c3d421fc12c5f.eot);
-src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont.eot?#iefix)
-format("embedded-opentype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont-ee7b8fa2adb8b6d8e46e46b3ed33fae4.woff)
-format("woff"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont-c29ed3a0f354222c7f689fbf667cecab.ttf)
-format("truetype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_300-webfont.svg#museo_slab_300regular)
-format("svg");
-font-weight:normal;
-font-style:normal}
-
+	font-family: 'MuseoSans700';
+	src: url('webfonts/museosans_700-webfont.woff') format('woff'),url('webfonts/museosans_700-webfont.ttf') format('truetype');
+}
 @font-face {
-font-family:'MuseoSlab500';
-src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont-c3025c9e23e27010edf6c03d8946888c.eot);
-src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont.eot?#iefix)
-format("embedded-opentype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont-3af8efbc4d605e61746f1932792fd3e9.woff)
-format("woff"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont-1aa3f1a3fd9928123311506563dd09df.ttf)
-format("truetype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_500-webfont.svg#museo_slab_500regular)
-format("svg");
-font-weight:normal;
-font-style:normal}
-
-@font-face {
-font-family:'MuseoSlab700';
-src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont-c3966a6712a86e546925cd89a9b42b95.eot);
-src:url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont.eot?#iefix)
-format("embedded-opentype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont-df3101fa0cbb3aaa8487af057f6e0e86.woff)
-format("woff"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont-f3dcd76775462f24713a972c0c4a3dfc.ttf)
-format("truetype"),url(http://dbyn5zaz01sgl.cloudfront.net/assets/Museo_Slab_700-webfont.svg#museo_slab_700regular)
-format("svg");
-font-weight:normal;
-font-style:normal}
+	font-family: 'MuseoSans500';
+	src: url('webfonts/museosans_500-webfont.woff') format('woff'),url('webfonts/museosans_500-webfont.ttf') format('truetype');
+}
+ @font-face {
+	font-family: 'MuseoSlab900';
+	src: url('webfonts/museo_slab_900-webfont.woff') format('woff'),url('webfonts/museo_slab_900-webfont.ttf') format('truetype');
+}
 
 html
 {font-size:100%;
 -webkit-text-size-adjust:100%;
 -ms-text-size-adjust:100%;
-font-family:'MuseoSlab300',sans-serif;
+font-family:'MuseoSans500',sans-serif;
 color:#242729}
 
 body
@@ -156,7 +136,7 @@ text-align:center}
 
 h1
 {font-size:2em;
-font-family:'MuseoSlab500';}.social
+font-family:'MuseoSlab900';}.social
 
 a:hover
 {text-decoration:none}
@@ -230,7 +210,6 @@ h1
 h1 a:hover,h1 a:visited
 {color:#9fa0a3;text-decoration:none}
 
-/*
 
 @media only screen and (min-width: 768px)
 {h1 a{padding-top:9.375em}
@@ -294,4 +273,3 @@ background-position:center 1em}
 	header p{font-size:1.714em}
 	h1 a{background-image:url(images/ipad_riversandseas.png);background-size:740px 643px;background-position:center 1em}
 }
-/*
